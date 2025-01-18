@@ -7,4 +7,4 @@ In this project you can draw panchon savarite method and then count numbers of s
 
 Also for example I did methanol_panchon to more understanding:
 
-![result](images/Res.png)
+![result](images1/Res.PNG)
