@@ -3,3 +3,6 @@ The Ponchon-Savarit method is a graphical distillation design approach using H-x
 
 In this project you can draw panchon savarite method and then count numbers of stages for your own system.I have done a sample.
 
+![Debotanizer Tower Flowsheet](images/flowsheet.png)
+
+Also for example I did 
