@@ -5,6 +5,9 @@ In this project you can draw panchon savarite method and then count numbers of s
 
 
 
-Also for example I did methanol_panchon to more understanding:
+You can see methanol system and its stages to reach the given composition.Also this code counts this stages by counting  tie_lines.you can see in the below:
 
 ![result](images1/Res.PNG)
+
+
+![result](images1/Res1.PNG)
