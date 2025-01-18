@@ -11,3 +11,5 @@ You can see methanol system and its stages to reach the given composition.Also t
 
 
 ![result](images1/Res1.PNG)
+
+It shows that you can enter your desired systems data and then reach to this systems stages by solving by Panchon_savarite method.
